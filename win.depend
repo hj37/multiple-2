@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575606678 source:c:\users\yoon\desktop\백준강의\win\number.cpp
+	<iostream>
+	<cstdio>
+
